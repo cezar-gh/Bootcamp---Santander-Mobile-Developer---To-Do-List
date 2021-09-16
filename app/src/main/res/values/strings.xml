@@ -1,8 +1,5 @@
 <resources>
     <string name="app_name">bootcamp to do list</string>
-    <string name="label_edit">Editar</string>
-    <string name="label_delete">Deletar</string>
-    <string name="you_dont_have_tasks">Ops! Você não possui\n nenhuma tarefa!</string>
     <string name="item_delete">Item deletado</string>
     <string name="new_task">Nova Tarefa</string>
     <string name="save">Salvar</string>
@@ -12,12 +9,15 @@
     <string name="hour">Hora</string>
     <string name="cancel">Cancelar</string>
     <string name="create_task">Criar tarefa</string>
-    <string name="required_fields">Preenche os campos obrigatorios!</string>
+    <string name="required_fields">Preencher os campos obrigatórios!</string>
     <string name="resume">Resumo</string>
     <string name="description">Descrição</string>
     <string name="sample_text_resume">Sample text resume</string>
-    <string name="sucess">Cadastrado com sucesso!</string>
+    <string name="sucess">Item cadastrado!</string>
     <string name="status_pending">Pendente</string>
     <string name="status_finish">Finalizado</string>
     <string name="title_edit_task">Editar tarefa</string>
+    <string name="label_edit">Editar</string>
+    <string name="label_delete">Deletar</string>
+    <string name="you_dont_have_tasks">Ops! Você não possui  nenhuma tarefa</string>
 </resources>

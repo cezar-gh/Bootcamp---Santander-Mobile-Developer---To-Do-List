@@ -6,6 +6,7 @@ O objetivo do projeto é criar um App de  "To do list",  do zero, mostrando o pr
 
 ## Melhorias
 - Quando encerrado, o App passou a não perder as tarefas incluídas.   Para tal foi utilizado o banco de dados ROOM, que oferece uma camada de abstração sobre o SQLite.
+- Internacionalização para o inglês dos Estados Unidos.
 - Validação de campo.
 - Resumo da tarefa.
 - Descrição da tarefa.

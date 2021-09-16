@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">bootcamp to do list</string>
+    <string name="label_delete">Delete</string>
+    <string name="you_dont_have_tasks">Oops! You do not have any tasks</string>
+    <string name="item_delete">"Deleted Item "</string>
+    <string name="new_task">"New Task "</string>
+    <string name="save">"To save "</string>
+    <string name="update">Updated</string>
+    <string name="title">Title*</string>
+    <string name="date">Date*</string>
+    <string name="hour">Hour</string>
+    <string name="cancel">"Cancel "</string>
+    <string name="create_task">Criar tarefa</string>
+    <string name="required_fields">"Fill in the required fields! "</string>
+    <string name="resume">Summary</string>
+    <string name="description">Description</string>
+    <string name="sucess">"Registered item! "</string>
+    <string name="status_pending">Pending</string>
+    <string name="status_finish">Finished</string>
+    <string name="title_edit_task">"edit task "</string>
+    <string name="label_edit">"To edit "</string>
+    <string name="sample_text_resume" translatable="false">Sample text resume</string>
+</resources>
